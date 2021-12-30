@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab79b676.css",
+    "main.js": "/static/js/main.32dadd1b.js",
+    "static/js/787.f3720682.chunk.js": "/static/js/787.f3720682.chunk.js",
+    "static/media/ZaneTechLLC.png": "/static/media/ZaneTechLLC.d64e78d9178ba3394117.png",
+    "index.html": "/index.html",
+    "main.ab79b676.css.map": "/static/css/main.ab79b676.css.map",
+    "main.32dadd1b.js.map": "/static/js/main.32dadd1b.js.map",
+    "787.f3720682.chunk.js.map": "/static/js/787.f3720682.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab79b676.css",
+    "static/js/main.32dadd1b.js"
+  ]
+}
