@@ -1,18 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
-.App{
-  background: black;
-  text-align: center;
-  height: 100vh;
+.App {
+	background: black;
+	text-align: center;
+	height: 100vh;
 }
 
-.logo{
-  max-width: 400px;
-  display: inline;
-  margin-top: 30px;
+.logo {
+	max-width: 400px;
+	display: inline;
+	margin-top: 30px;
 }
 
-p{
-  color: #FBF2C1;
-  font-family: 'Open Sans', sans-serif;
+.slacktunes {
+	max-width: 250px;
+}
+
+p {
+	margin-top: 0;
+	padding-top: 10px;
+	color: #fbf2c1;
+	font-family: "Open Sans", sans-serif;
 }

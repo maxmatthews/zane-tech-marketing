@@ -2,6 +2,7 @@ import logo from "./ZaneTechLLC.png";
 import "./App.scss";
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import SlackTunesInstalled from "./SlackTunesInstalled";
 
 const Home = () => {
 	return (
@@ -18,6 +19,9 @@ function App() {
 		<div className="App">
 			<Router>
 				<Routes>
+					<Route path={"/slacktunes"}>
+						<Route path={"installed"} element={<SlackTunesInstalled />} />
+					</Route>
 					<Route path="/">
 						<Route index element={<Home />} />
 					</Route>
